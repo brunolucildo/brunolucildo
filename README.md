@@ -4,7 +4,7 @@
 
 I'm a software developer focused on building reliable backend systems, scalable APIs, and maintainable software architectures.
 
-With 8+ years of experience in software development, I work primarily with C# and the .NET ecosystem, combining hands-on engineering with technical leadership, architectural decisions, and team mentoring.
+With 10+ years of experience in software development, I work primarily with C# and the .NET ecosystem, combining hands-on engineering with technical leadership, architectural decisions, and team mentoring.
 
 My experience includes modernizing legacy systems, improving application performance, designing service integrations, and building solutions that support business-critical operations.
 
